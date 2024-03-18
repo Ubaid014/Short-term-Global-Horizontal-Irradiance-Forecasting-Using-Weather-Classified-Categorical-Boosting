@@ -4,7 +4,7 @@ Accurate short-term solar irradiance (SI) forecasting is crucial for renewable e
 ## Reference
 Please cite this work as:
 "Ubaid Ahmed, Ahsan Raza Khan, Anzar Mahmood, Iqra Rafiq, Rami Ghannam, Ahmed Zoha,
-Short-term global horizontal irradiance forecasting using weather classified categorical boosting,
+Short-term global horizontal irradiance forecasting using weather-classified categorical boosting,
 Applied Soft Computing,
 2024,
 111441,
