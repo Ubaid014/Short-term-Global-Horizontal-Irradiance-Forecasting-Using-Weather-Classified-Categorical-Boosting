@@ -22,8 +22,8 @@ Required libraries: <br>
 
 # Running the Code
 ## Step 1: Data Preprocessing
-Run the data_preprocessing.py script to clean the data, select features, and perform weather-based clustering.
-
+Run k-mean_clustering.ipynb script to perform weather-based clustering.<br>
+Run splitting_the_clustering_data.ipynb script to separate respective clusters.<br>
 
 ## Step 2: Model Training and Evaluation
 
