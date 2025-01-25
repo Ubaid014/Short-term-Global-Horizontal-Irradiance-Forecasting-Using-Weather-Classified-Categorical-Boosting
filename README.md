@@ -27,7 +27,7 @@ Run splitting_the_clustering_data.ipynb script to separate respective clusters.<
 
 ## Step 2: Model Training and Evaluation
 
-Run the model_training.py script to train the weather-classified CatBoost model and evaluate it against benchmark models.
+Run the Bidirectional_LSTM.ipynb, GRU.ipynb, CatBoost.ipynb and adaboost.ipynb scripts from respective folders to train the weather-classified CatBoost model and evaluate it against benchmark techniques.
 
 ## Step 3: Visualization
 Run the visualization.py script to visualize the forecasting results and compare the model's performance.
