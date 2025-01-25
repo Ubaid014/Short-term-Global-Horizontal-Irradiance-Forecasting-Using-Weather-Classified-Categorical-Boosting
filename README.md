@@ -27,18 +27,18 @@ Run splitting_the_clustering_data.ipynb script to separate respective clusters.<
 
 ## Step 2: Model Training and Evaluation
 
-Run the Bidirectional_LSTM.ipynb, GRU.ipynb, CatBoost.ipynb and adaboost.ipynb scripts from respective folders to train the weather-classified CatBoost model and evaluate it against benchmark techniques.
+Run the Bidirectional_LSTM.ipynb, GRU.ipynb, CatBoost.ipynb and adaboost.ipynb scripts from respective folders to train and evaluate the weather-classified CatBoost model against benchmark techniques.
 
 ## Step 3: Visualization
-Run the visualization.py script to visualize the forecasting results and compare the model's performance.
+Run the bar_plot.ipynb, graph.ipynb and scatter_regression_plot.ipynb scripts to visualize the forecasting results and compare the model's performance.
 
 
-Short-term-Global-Horizontal-Irradiance-Forecasting/
-├── data/                       # Folder for datasets
-├── data_preprocessing.py       # Script for data preprocessing and clustering
-├── model_training.py           # Script for model training and evaluation
-├── visualization.py            # Script for result visualization
-├── README.md                   # Project README file
+Short-term-Global-Horizontal-Irradiance-Forecasting/ <br>
+├── Datasets/                   # Folder for datasets <br>
+├── Weather Calssification/     # Folder containing scripts for data preprocessing and clustering <br>
+├── Simulation for/             # Folder containing scripts for model training and evaluation <br>
+├── Graphicall illustration     # Folder containing scripts for result visualization <br>
+├── README.md                   # Project README file <br>
 
 
 
