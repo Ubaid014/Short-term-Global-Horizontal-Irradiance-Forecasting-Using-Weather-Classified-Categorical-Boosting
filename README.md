@@ -5,6 +5,27 @@ Accurate short-term solar irradiance (SI) forecasting is crucial for renewable e
 # Getting Started
 Follow the steps below to set up and run the code for short-term global horizontal irradiance forecasting.
 
+## Prerequisites
+Ensure you have the following software installed:
+
+Python 3.10.9 or above
+
+Required libraries: 
+NumPy
+Pandas
+Scikit-learn
+CatBoost
+Matplotlib
+Seaborn
+TensorFlow
+Keras
+RandomForest
+
+
+
+
+
+
 ## Reference
 Please cite this work as:
 "Ubaid Ahmed, Ahsan Raza Khan, Anzar Mahmood, Iqra Rafiq, Rami Ghannam, Ahmed Zoha,
