@@ -7,17 +7,17 @@ Follow the steps below to set up and run the code for short-term global horizont
 
 ## Prerequisites
 Ensure you have the following software installed:<br>
-Python 3.10.9 or above<br>
-Required libraries: <br>
-NumPy<br>
-Pandas<br>
-Scikit-learn<br>
-CatBoost<br>
-Matplotlib<br>
-Seaborn<br>
-TensorFlow<br>
-Keras<br>
-RandomForest<br>
+-Python 3.10.9 or above<br>
+-Required libraries: <br>
+ -NumPy<br>
+ -Pandas<br>
+ -Scikit-learn<br>
+ -CatBoost<br>
+ -Matplotlib<br>
+ -Seaborn<br>
+ -TensorFlow<br>
+ -Keras<br>
+ -RandomForest<br>
 
 
 
