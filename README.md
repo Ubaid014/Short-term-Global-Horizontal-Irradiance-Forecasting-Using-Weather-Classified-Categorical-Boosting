@@ -7,19 +7,38 @@ Follow the steps below to set up and run the code for short-term global horizont
 
 ## Prerequisites
 Ensure you have the following software installed:<br>
--Python 3.10.9 or above<br>
--Required libraries: <br>
- -NumPy<br>
- -Pandas<br>
- -Scikit-learn<br>
- -CatBoost<br>
- -Matplotlib<br>
- -Seaborn<br>
- -TensorFlow<br>
- -Keras<br>
- -RandomForest<br>
+- Python 3.10.9 or above<br>
+
+Required libraries: <br>
+ -  NumPy<br>
+ -  Pandas<br>
+ -  Scikit-learn<br>
+ -  CatBoost<br>
+ -  Matplotlib<br>
+ -  Seaborn<br>
+ -  TensorFlow<br>
+ -  Keras<br>
+ -  RandomForest<br>
+
+# Running the Code
+## Step 1: Data Preprocessing
+Run the data_preprocessing.py script to clean the data, select features, and perform weather-based clustering.
 
 
+## Step 2: Model Training and Evaluation
+
+Run the model_training.py script to train the weather-classified CatBoost model and evaluate it against benchmark models.
+
+## Step 3: Visualization
+Run the visualization.py script to visualize the forecasting results and compare the model's performance.
+
+
+Short-term-Global-Horizontal-Irradiance-Forecasting/
+├── data/                       # Folder for datasets
+├── data_preprocessing.py       # Script for data preprocessing and clustering
+├── model_training.py           # Script for model training and evaluation
+├── visualization.py            # Script for result visualization
+├── README.md                   # Project README file
 
 
 
